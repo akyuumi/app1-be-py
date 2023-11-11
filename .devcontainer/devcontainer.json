@@ -1,0 +1,8 @@
+{
+  "name": "app1-be",
+  "settings": {
+    "terminal.integrated.shell.linux": "/bin/bash"
+  },
+  "extensions": ["ms-python.python", "ms-azuretools.vscode-docker"],
+  "forwardPorts": [8080],
+}
